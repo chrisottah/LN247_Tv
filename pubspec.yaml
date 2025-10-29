@@ -1,0 +1,52 @@
+name: ln247_tv
+description: LN247 TV App
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  video_player: ^2.8.2
+  flutter_launcher_icons: ^0.14.4
+  flutter_native_splash: ^2.4.1
+  google_fonts: ^6.1.0
+  better_player:
+    path: ./better_player_fixed
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.2
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/icons/ln247_logo.png
+    - assets/thumbnails/
+    - assets/background_video.mp4
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/icons/ln247_logo.png"
+  adaptive_icon_background: "#FFFFFF"
+  adaptive_icon_foreground: "assets/icons/ln247_logo.png"
+  remove_alpha_ios: true
+
+flutter_native_splash:
+  color: "#FFFFFF"
+  image: assets/icons/ln247_logo.png
+  android: true
+  ios: true
+  web: false
+  android_12:
+    image: assets/icons/ln247_logo.png
+    icon_background_color: "#FFFFFF"
