@@ -73,19 +73,6 @@ You’ll find your APK under:
 build/app/outputs/flutter-apk/app-release.apk
 ```
 
----
-
-## 🖼️ Screenshots (optional)
-
-You can include a few screenshots of your app UI here later:
-
-```
-![Home Screen](screenshots/home.png)
-![Livestream Player](screenshots/player.png)
-```
-
----
-
 ## 📬 Contact
 
 **Developer:** Christian Ottah
