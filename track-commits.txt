@@ -2,3 +2,4 @@ created this new file for keeping commits and saving stuff I want to reference l
 commit for day 23rd
 day 29 addition
 day 30 commit
+eden ai was moved to local host. did first test on docker and it was fluid
