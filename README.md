@@ -3,7 +3,7 @@
 ```markdown
 # 📺 LN247 TV
 
-LN247 TV is a Flutter-based mobile application for **News Updates** and **live video streaming**, built for the **LN247 News Network**.  
+LN247 TV is a Flutter-based mobile application for **live video streaming**, built for the **LN247 News Network**.  
 The app delivers a clean UI and seamless video playback.
 
 ---
